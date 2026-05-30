@@ -1,0 +1,21 @@
+* {
+    margin: 0 ;
+    padding: 3px ;
+}
+h1 , h2 , p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: #175E82;
+}
+h2 {
+    color:#368EB7 ;
+}
+.highlight {
+    background-color: #F5E7A3;
+    display: inline-block;
+}
+img {
+        margin-left: 45px;
+    margin-right: 45px;
+}
